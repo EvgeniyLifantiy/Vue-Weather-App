@@ -25,3 +25,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 Applications for displaying the weather forecast. Using OpenWeatherMap Api.
+
+![1](https://github.com/EvgeniyLifantiy/Vue-Weather-App/blob/main/day.jpg)
+![2](https://github.com/EvgeniyLifantiy/Vue-Weather-App/blob/main/week.jpg)
