@@ -1,4 +1,4 @@
-# weathervue
+# Vue-Weather-App
 
 ## Project setup
 ```
@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+Applications for displaying the weather forecast. Using OpenWeatherMap Api.
